@@ -15,12 +15,10 @@ pwn.college{IICqR3fIEc58_RlF1WvP7WQme7r.ddjNyUDLxAjN0czW}
 
 ```
 overfallranger@overfalls-MacBook-Air ~ % ssh -i ./key hacker@dojo.pwn.college
-
-
 Connected!                                                                        
-```
 hacker@hello~intro-to-commands:~$ 
 hacker@hello~intro-to-commands:~$ hello
 Success! Here is your flag:
 pwn.college{IICqR3fIEc58_RlF1WvP7WQme7r.ddjNyUDLxAjN0czW}
+
 ```
